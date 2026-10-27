@@ -1,0 +1,11 @@
+requestedPressure,speedKmh,gear,expectedPressure
+0,0,N,0
+30,30,D,30
+80,30,D,80
+80,31,D,80
+81,30,D,81
+81,31,D,90
+100,31,R,90
+105,25,R,100
+100,30,N,100
+0,31,N,0
